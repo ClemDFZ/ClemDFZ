@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClemDFZ
 - 👀 I’m interested in Robotics 
-- 🌱 I’m currently learning Robotics (especially ROS)
+- 🌱 I’m a junior in Robotics, currently in Medical robotics
 - 📫 How to reach me clement.desfossez@gmail.com
 
 <!---
